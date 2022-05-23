@@ -1,4 +1,6 @@
-## Felipe Lisboa Malaquias
+<p align="center">
+
+### Hello !
 
 Welcome to my personal page. Currently I am working on my PhD thesis at Institut Polytechnique de Paris under the supervision of [Florian Brandner](https://perso.telecom-paristech.fr/brandner/) and [Lirida Naviner](https://www.telecom-paris.fr/lirida-naviner?l=en). 
 
@@ -20,3 +22,4 @@ You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGX
 
 - BsC in Eletrical Engineering at Universidade Federal de Minas Gerais (2015-2020).
 
+</p>
