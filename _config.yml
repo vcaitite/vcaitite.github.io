@@ -1,5 +1,7 @@
----
 title: Felipe Lisboa Malaquias
+logo: /assets/img/eu.jpg
+email: flisboa@telecom-paris.fr
 description: Welcome to my personal page :)
-theme: jekyll-theme-cayman
----
+remote_theme: BDHU/minimalist
+plugins:
+  - jekyll-remote-theme
