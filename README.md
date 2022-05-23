@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Felipe Lisboa Malaquias
 
-You can use the [editor on GitHub](https://github.com/felipelisboa-ml/felipelisboa-ml.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal page. Currently I am working on my PhD thesis at Institut Polytechnique de Paris under the supervision of [Florian Brandner](https://perso.telecom-paristech.fr/brandner/) and [Lirida Naviner](https://www.telecom-paris.fr/lirida-naviner?l=en). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My general topic of interest is Real-Time Embedded Systems. My thesis, more specifically, is on designing safe and trustworthy memory systems, which heavily relies on formal methods. I've also recently worked with processor architecture, RTL design, critical and mixed-criticality real-time embedded systems, and RISC-V designs. In the past, I've worked with a large range of topics, which can be checked below.
 
-### Markdown
+In this page you will find a resume of my education, professional experience, outreach, publications and github links to my projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Alternative resources
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felipelisboa-ml/felipelisboa-ml.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGXMycrUgN4HLiG98U/view?usp=sharing). You can also visit my webpage hosted at [Telecom Paris](https://perso.telecom-paristech.fr/flisboa/). And last but not least, my [linkedin page](https://www.linkedin.com/in/felipe-lisboa/).
