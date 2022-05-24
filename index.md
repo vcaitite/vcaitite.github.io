@@ -1,6 +1,4 @@
 
-<p align="center">
-
 ### Hello !
 
 Welcome to my personal page. Currently I am working on my PhD thesis at [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Florian Brandner](https://perso.telecom-paristech.fr/brandner/) and [Lirida Naviner](https://www.telecom-paris.fr/lirida-naviner?l=en). 
@@ -30,6 +28,3 @@ You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGX
 - Intern at [Trustonic](https://www.trustonic.com/) (Mar 2020 - Sep 2020). I implemented a biometric library and provided sample-code for fingerprint and face-recognitionin applications in a resource-limited Trusted Execution Environment (TEE). I've also contributed to the TEE by enabling C++ support on the kernel.
 
 ### Publications
-
-</p>
-
