@@ -5,3 +5,7 @@ description: Welcome to my personal page :)
 remote_theme: BDHU/minimalist
 plugins:
   - jekyll-remote-theme
+sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/felipelisboa-ml
