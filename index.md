@@ -41,7 +41,7 @@ You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGX
 <div style="text-align: justify"> 
 
 <ol>
-<li> <strong> (Outstanding paper) </strong> <strong>Felipe Lisboa Malaquias</strong>, Mihail Asavoae, and Florian Brandner. 2022. A Coq Framework for More Trustworthy DRAM Controllers. In Proceedings of the 30th International Conference on Real-Time Networks and Systems (RTNS ’22), June 7–8, 2022, Paris, France. ACM, New York, NY, USA, 11 pages.</li>
+<li> <strong> (Best Paper Award) </strong> <strong>Felipe Lisboa Malaquias</strong>, Mihail Asavoae, and Florian Brandner. 2022. A Coq Framework for More Trustworthy DRAM Controllers. In Proceedings of the 30th International Conference on Real-Time Networks and Systems (RTNS ’22), June 7–8, 2022, Paris, France. ACM, New York, NY, USA, 11 pages.</li>
 </ol>
 
 </div>
