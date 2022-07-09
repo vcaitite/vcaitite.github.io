@@ -1,5 +1,5 @@
 
-### Hello !
+## Hello !
 
 <div style="text-align: justify"> 
 
@@ -9,9 +9,13 @@
 <p>I also usually develop small projects in: AI, data, games, embedded systems and robotics.</p>
 </div>
 
+
+
 ### Alternative resources
 
 You can download my CV [here](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR). You can also visit my [linkedin page](https://www.linkedin.com/in/vitorcaitite/) or my [google scholar page](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR).
+
+
 
 ### Education
 
@@ -25,9 +29,12 @@ You can download my CV [here](https://scholar.google.com.br/citations?user=xskOh
 
 </div>
 
+
+
 ### Professional Experience
 
-- Graduate Research Assistant (2021 - present). Member of the <a href="http://litc.cpdee.ufmg.br/">Computational Intelligence Laboratory (LITC), UFMG.
+- Graduate Research Assistant (2021 - present). Member of the <a href="http://litc.cpdee.ufmg.br/">Computational Intelligence Laboratory (LITC), UFMG.</a>
+
 
 
 ### Publications
@@ -39,16 +46,22 @@ You can download my CV [here](https://scholar.google.com.br/citations?user=xskOh
 
 <li> <strong>V. G. Reis Caitité</strong>, D. Maradona Gonçalves dos Santos, I. C. Gregório, W. B. da Silva and V. F. Mendes, "Diffusion of Robotics through Line Follower Robots," 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018, pp. 604-609, doi: 10.1109/LARS/SBR/WRE.2018.00109.</li>
   
-<li> </strong>Caitité, V. G. R.</strong>, dos Santos, D. M. G., Gregorio, I. C., da Silva, W. B., & Mendes, V. F. ROBÔ SEGUIDOR DE LINHA EMPREGANDO CONTROLE PID.</li>  
+<li> </strong>Caitité, V. G. R.</strong>, dos Santos, D. M. G., Gregorio, I. C., da Silva, W. B., & Mendes, V. F. ROBÔ SEGUIDOR DE LINHA EMPREGANDO CONTROLE PID.</li>
 </ol>
 
 </div>
+
+
 
 ### Awards and Honors
 
 - **1st place at CoRA, the Autonomous Robot Competition** (Belo Horizonte, Brazil, 2020). Organised by [PETEE](http://www.petee.cpdee.ufmg.br/), School of Enginering, UFMG. 
 
+
+
 ### Projects
+
+
 
 ### More
 
