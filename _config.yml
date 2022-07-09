@@ -1,6 +1,6 @@
-title: Felipe Lisboa Malaquias
+title: Vítor Gabriel Reis Caitité
 logo: /assets/img/eu.jpg
-email: flisboa@telecom-paris.fr
+email: vitorcaitite@gmail.com
 description: Welcome to my personal page :)
 remote_theme: BDHU/minimalist
 plugins:
@@ -8,4 +8,4 @@ plugins:
 sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/felipelisboa-ml
+    link: https://github.com/vcaitite
