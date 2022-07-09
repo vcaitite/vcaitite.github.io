@@ -11,7 +11,7 @@
 
 ### Alternative resources
 
-You can download my CV [here](). You can also visit my [linkedin page](https://www.linkedin.com/in/vitorcaitite/).
+You can download my CV [here](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR). You can also visit my [linkedin page](https://www.linkedin.com/in/vitorcaitite/) or my [google scholar page](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR).
 
 ### Education
 
