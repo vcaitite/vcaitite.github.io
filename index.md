@@ -4,7 +4,7 @@
 <div style="text-align: justify"> 
 
 <p>Welcome to my personal page. Currently I am working on my master's degree in electrical engineering at <a href="https://ufmg.br/international-visitors">Universidade Federal de Minas Gerais</a> under the supervision of <a href="http://www.cpdee.ufmg.br/~apbraga/"> Prof. Antônio de Pádua Braga</a>.
-<p>My current research interest is in Computational Intelligence. </p>
+<p>My current research interest is in Computational Intelligence.</p>
 
 <p>I also usually develop small projects in: AI, data, games, embedded systems and robotics.</p>
 </div>
