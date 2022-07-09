@@ -3,63 +3,52 @@
 
 <div style="text-align: justify"> 
 
-<p>Welcome to my personal page. Currently I am working on my PhD thesis at  <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a> under the supervision of 
-<a href="https://perso.telecom-paristech.fr/brandner/">Florian Brandner</a> and <a href="https://www.telecom-paris.fr/lirida-naviner?l=en">Lirida Naviner</a>.</p>
+<p>Welcome to my personal page. Currently I am working on my master's degree in electrical engineering at <a href="https://ufmg.br/international-visitors">Universidade Federal de Minas Gerais</a> under the supervision of <a href="http://www.cpdee.ufmg.br/~apbraga/"> Prof. Antônio de Pádua Braga</a>.
+<p>My current research interest is in Computational Intelligence. </p>
 
-<p>My current research interest is in Real-Time Embedded Systems. My thesis, more specifically, is on <em>designing safe and trustworthy memory systems</em> -- heavily relying on formal methods.</p>
-
-<p>Moreover, I consider my areas of expertise to be: processor micro-architecture, RISC-V processor optimisation, RTL design, critical and mixed-criticality real-time systems, concurrent/multi-core programing, trusted execution environments (TEEs), bare metal development, operational systems, and micro-controllers.</p>
-
-<p>I've also developped small projects on: AI, data, distributed systems, cloud, robotics, connected objects, ultra-low-power electronic design, and mobile networks.</p>
+<p>I also usually develop small projects in: AI, data, games, embedded systems and robotics.</p>
 </div>
 
 ### Alternative resources
 
-You can download my CV [here](https://drive.google.com/file/d/1uRnzSN_5rPppWjUGXMycrUgN4HLiG98U/view?usp=sharing). You can also visit my [linkedin page](https://www.linkedin.com/in/felipe-lisboa/).
+You can download my CV [here](). You can also visit my [linkedin page](https://www.linkedin.com/in/vitorcaitite/).
 
 ### Education
 
 <div style="text-align: justify"> 
 
 <ul>
-<li> <strong>PhD at Institut Polytechnique de Paris</strong>, Paris, France (2020-present). Thesis: Secure Dynamic Memory Hierarchy.</li>
-<li> <strong>MsC at Télécom Paris & Université Paris-Saclay</strong>, Paris, France  (2018-2020). Thesis: Implementation of a biometric library in a multi-core Trusted Execution Environment (TEE). GPA: 16.2/20.</li>
-<li> <strong>BsC in Eletrical Engineering at Universidade Federal de Minas Gerais (UFMG)</strong>, Belo Horizonte, Brazil (2015-2020). Focus on electronics and computer micro-architecture.</li>
-<li> <strong>Technical Degree in Industrial Automation</strong> at Instituto Federal de Minas Gerais (IFMG), Ouro Preto, Brazil (2012-2014).</li>
+<li> <strong>MsC in Eletrical Engineering at Universidade Federal de Minas Gerais (UFMG)</strong>, Belo Horizonte, Brazil (2016-2021). Research field: <strong>Computational intelligence</strong>.</li>
+<li> <strong>BsC in Eletrical Engineering at Universidade Federal de Minas Gerais (UFMG)</strong>, Belo Horizonte, Brazil (2016-2021). Focus on computational intelligence and embedded systems.</li>
+<li> <strong>Professional Course in Industrial electrical installations</strong> at SENAI, Itaúna, Brazil (2015-2016).</li>
 </ul>
 
 </div>
 
 ### Professional Experience
 
-- Teaching assistant at Télécom Paris (2020 - present).
+- Graduate Research Assistant (2021 - present). Member of the <a href="http://litc.cpdee.ufmg.br/">Computational Intelligence Laboratory (LITC), UFMG.
 
-- Intern at [Trustonic](https://www.trustonic.com/) (Mar 2020 - Sep 2020). I implemented a biometric library and provided sample-code for fingerprint and face-recognitionin applications in a resource-limited Trusted Execution Environment (TEE). I've also contributed to the TEE by enabling C++ support on the kernel.
 
 ### Publications
 
 <div style="text-align: justify"> 
 
 <ol>
-<li> <strong> (Best Paper Award) </strong> <strong>Felipe Lisboa Malaquias</strong>, Mihail Asavoae, and Florian Brandner. 2022. A Coq Framework for More Trustworthy DRAM Controllers. In Proceedings of the 30th International Conference on Real-Time Networks and Systems (RTNS ’22), June 7–8, 2022, Paris, France. ACM, New York, NY, USA, 11 pages.</li>
+<li> Castro, T. O., <strong>Caitité, V. G.</strong>, Macedo, D. F., & dos Santos, A. L. (2019). CASA‐IoT: Scalable and context‐aware IoT access control supporting multiple users. International Journal of Network Management, 29(5), e2084. </li>
+
+<li> <strong>V. G. Reis Caitité</strong>, D. Maradona Gonçalves dos Santos, I. C. Gregório, W. B. da Silva and V. F. Mendes, "Diffusion of Robotics through Line Follower Robots," 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018, pp. 604-609, doi: 10.1109/LARS/SBR/WRE.2018.00109.</li>
+  
+<li> </strong>Caitité, V. G. R.</strong>, dos Santos, D. M. G., Gregorio, I. C., da Silva, W. B., & Mendes, V. F. ROBÔ SEGUIDOR DE LINHA EMPREGANDO CONTROLE PID.</li>  
 </ol>
 
 </div>
 
 ### Awards and Honors
 
-- **1st place at the 1st National RISC-V student contest** (Paris, France, 2021). Organised by Thales, CNFM, and the GdR SOC2.
-
-- **CAPES BRAFITEC Excellence Double Degree Fellowship** (Belo Horizonte, Brazil, 2018). Granted by [CAPES](https://www.gov.br/capes/pt-br).
-
-- **1st place at CoRA, the Autonomous Robot Competition** (Belo Horizonte, Brazil, 2016). Organised by [PETEE](http://www.petee.cpdee.ufmg.br/), School of Enginering, UFMG. Along with two teamates, I've designed a high speed line follower robot. Our robot's performance granted us first place in the competition. 
+- **1st place at CoRA, the Autonomous Robot Competition** (Belo Horizonte, Brazil, 2020). Organised by [PETEE](http://www.petee.cpdee.ufmg.br/), School of Enginering, UFMG. 
 
 ### Projects
 
-- [Superscalar Processor Timing Anomalies Detector](https://github.com/felipelisboa-ml/RISC-V-competition). A software written in C to detect timing anomalies in super-scalar processor trace executions.
-
-- [RISC-V National Competition](https://github.com/felipelisboa-ml/RISC-V-competition). My changes on the [Ariane](https://github.com/lowRISC/ariane) processor that awarded my first place on the 1st National RISC-V student contest.
-
 ### More
 
-I like being outside in nature as much as possible. Other passions are making music, sports, and languages. I am quite passionate about languages, actually. Currently I can speak fluent Portuguese, English, French, Spanish, Italian, and some basic German.
