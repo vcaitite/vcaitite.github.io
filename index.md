@@ -1,9 +1,9 @@
-
-## Hello !
+# Vítor Caitité
 
 <div style="text-align: justify"> 
 
-<p>Welcome to my personal page. Currently I am working on my master's degree in electrical engineering at <a href="https://ufmg.br/international-visitors">Universidade Federal de Minas Gerais</a> under the supervision of <a href="http://www.cpdee.ufmg.br/~apbraga/"> Prof. Antônio de Pádua Braga</a>.
+<p>Welcome to my personal page. Currently I am working on my master's degree in electrical engineering at <a href="https://ufmg.br/international-visitors">Universidade Federal de Minas Gerais</a> under the supervision of <a href="http://www.cpdee.ufmg.br/~apbraga/"> Prof. Antônio de Pádua Braga.</a></p>
+
 <p>My current research interest is in Computational Intelligence.</p>
 
 <p>I also usually develop small projects in: AI, data, games, embedded systems and robotics.</p>
@@ -11,13 +11,17 @@
 
 
 
-### Alternative resources
+# Alternative resources
 
-You can download my CV [here](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR). You can also visit my [linkedin page](https://www.linkedin.com/in/vitorcaitite/) or my [google scholar page](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR).
+- [CV](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR)
+- [Linkedin page](https://www.linkedin.com/in/vitorcaitite/)
+- [Google scholar page](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR).
+- [Github](https://github.com/vcaitite)
+- [Instagram of small projects](https://www.instagram.com/multiverso_ia/)
 
 
 
-### Education
+# Education
 
 <div style="text-align: justify"> 
 
@@ -31,13 +35,21 @@ You can download my CV [here](https://scholar.google.com.br/citations?user=xskOh
 
 
 
-### Professional Experience
+# Professional Experience
 
 - Graduate Research Assistant (2021 - present). Member of the <a href="http://litc.cpdee.ufmg.br/">Computational Intelligence Laboratory (LITC), UFMG.</a>
 
+- Embedded Systems Developer (2019 - 2021) at [Unidata Automação Ltda](https://www.linkedin.com/company/unidata-automacao/).
+
+- Extension Scholarship Student (2017-2019) at [PETEE-UFMG](http://www.petee.cpdee.ufmg.br/).
+
+- Undergraduate Student Researcher at Wireless Networks Lab - [WiNet](https://www.winet.dcc.ufmg.br/).
 
 
-### Publications
+
+
+
+# Publications
 
 <div style="text-align: justify"> 
 
@@ -53,15 +65,13 @@ You can download my CV [here](https://scholar.google.com.br/citations?user=xskOh
 
 
 
-### Awards and Honors
+# Awards and Honors
 
 - **1st place at CoRA, the Autonomous Robot Competition** (Belo Horizonte, Brazil, 2020). Organised by [PETEE](http://www.petee.cpdee.ufmg.br/), School of Enginering, UFMG. 
 
 
-
-### Projects
-
+# Projects
 
 
-### More
+# More
 
