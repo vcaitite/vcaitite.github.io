@@ -58,7 +58,7 @@
 
 <li> <strong>V. G. Reis Caitité</strong>, D. Maradona Gonçalves dos Santos, I. C. Gregório, W. B. da Silva and V. F. Mendes, "Diffusion of Robotics through Line Follower Robots," 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018, pp. 604-609, doi: 10.1109/LARS/SBR/WRE.2018.00109.</li>
   
-<li> </strong>Caitité, V. G. R.</strong>, dos Santos, D. M. G., Gregorio, I. C., da Silva, W. B., & Mendes, V. F. ROBÔ SEGUIDOR DE LINHA EMPREGANDO CONTROLE PID.</li>
+<li> <strong>Caitité, V. G. R.</strong>, dos Santos, D. M. G., Gregorio, I. C., da Silva, W. B., & Mendes, V. F. ROBÔ SEGUIDOR DE LINHA EMPREGANDO CONTROLE PID.</li>
 </ol>
 
 </div>
