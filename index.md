@@ -13,7 +13,7 @@
 
 # Alternative resources
 
-- [CV](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR)
+- [CV](https://github.com/vcaitite/vcaitite.github.io/blob/master/assets/files/Vitor_CV.pdf)
 - [Linkedin page](https://www.linkedin.com/in/vitorcaitite/)
 - [Google scholar page](https://scholar.google.com.br/citations?user=xskOhT4AAAAJ&hl=pt-BR).
 - [Github](https://github.com/vcaitite)
