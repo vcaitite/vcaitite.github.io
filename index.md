@@ -72,6 +72,7 @@
 
 # Projects
 
+[Projects page](./projects.html).
 
 # More
 
