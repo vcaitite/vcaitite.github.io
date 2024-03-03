@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Implementation and study of machine learning methods 
+## Implementation and study of artificial intelligence algorithms
 
 ### Neural Network Methods
 
@@ -51,7 +51,7 @@ layout: post
 - [kMeans](https://github.com/vcaitite/pattern-recognition-exercises/blob/master/list%20-%20extra%204/kMeans.ipynb)
 
 
-## Implementation and study of fuzzy topics 
+### Implementation and study of fuzzy topics 
 
 - [Membership Functions](https://github.com/vcaitite/fuzzy-systems-exercises/blob/master/1.%20Membership_functions/1.%20Membership_functions.ipynb)
 
@@ -69,5 +69,13 @@ layout: post
 - [Neo-Fuzzy-Neuron (NFN)](https://github.com/vcaitite/fuzzy-systems-exercises/blob/master/6.%20Anfis/6%20-%20NFN.ipynb)
 
  
+### IA Playing Games:
+
+- [Q-Learning Agents Playing Tic Tac Toe](https://github.com/vcaitite/multiverse_ia/tree/main/projects/TicTacToe_RL): In this project, it was created a tic-tac-toe game with reinforcement learning agents that learn to play the game. The agents are implemented using a Q-learning algorithm.  
+
+
+ 
+
+
 
 [Back](./)
