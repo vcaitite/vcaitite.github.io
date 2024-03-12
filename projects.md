@@ -96,7 +96,33 @@ layout: post
 
 - [Neo-Fuzzy-Neuron (NFN)](https://github.com/vcaitite/fuzzy-systems-exercises/blob/master/6.%20Anfis/6%20-%20NFN.ipynb)
 
- 
+### Heuristics and Metaheuristics:
+
+- [Implementation of constructive heuristics for the Traveling Salesman Problem (TSP)](https://github.com/vcaitite/heuristics-and-metaheuristics/tree/main/TP1_constructive_heuristics)
+    >  **Implemented Methods:**
+    > - Nearest Neighbor;
+    > - Cheapest Insertion;
+    > - Nearest Insertion;
+    > - Farthest Insertion.
+
+ - [Implementation of the Variable Neighborhood Descent (VND) Algorithm applied on the Traveling Salesman Problem (TSP)](https://github.com/vcaitite/heuristics-and-metaheuristics/tree/main/TP2_VND)
+    >  The local search algorithms used were:**
+    > - Swap;
+    > - 2-Opt;
+    > - 3-Opt.
+
+ - [Implementation of Genetic Algorithm applied on the Traveling Salesman Problem (TSP)](https://github.com/vcaitite/heuristics-and-metaheuristics/tree/main/TP3_Metaheuristics)
+
+ - [Implementation of heuristics for the Capacitated Vehicle Routing Problem (CVRP). Methods:](https://github.com/vcaitite/heuristics-and-metaheuristics/tree/main/TP2_VND)
+    > **Implemented Methods:**
+    > - Nearest Neighbor with capacity;
+    > - Sweep Nearest Algorith.
+    > - Sweep + Cheapest Insertion
+    > - Sweep + Nearest Insertion
+    > - Sweep + Farthest Insertion
+
+
+
 ### IA Playing Games:
 
 - [Q-Learning Agents Playing Tic Tac Toe](https://github.com/vcaitite/multiverse_ia/tree/main/projects/TicTacToe_RL): In this project, it was created a tic-tac-toe game with reinforcement learning agents that learn to play the game. The agents are implemented using a Q-learning algorithm.  
