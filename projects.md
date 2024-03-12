@@ -106,14 +106,14 @@ layout: post
     > - Farthest Insertion.
 
  - [Implementation of the Variable Neighborhood Descent (VND) Algorithm applied on the Traveling Salesman Problem (TSP)](https://github.com/vcaitite/heuristics-and-metaheuristics/tree/main/TP2_VND)
-    >  The local search algorithms used were:**
+    >  The local search algorithms used were:
     > - Swap;
     > - 2-Opt;
     > - 3-Opt.
 
  - [Implementation of Genetic Algorithm applied on the Traveling Salesman Problem (TSP)](https://github.com/vcaitite/heuristics-and-metaheuristics/tree/main/TP3_Metaheuristics)
 
- - [Implementation of heuristics for the Capacitated Vehicle Routing Problem (CVRP). Methods:](https://github.com/vcaitite/heuristics-and-metaheuristics/tree/main/TP2_VND)
+ - [Implementation of heuristics for the Capacitated Vehicle Routing Problem (CVRP). Methods:](https://github.com/vcaitite/heuristics-and-metaheuristics/tree/main/TP_Final%20_Article_VRPC)
     > **Implemented Methods:**
     > - Nearest Neighbor with capacity;
     > - Sweep Nearest Algorith.
