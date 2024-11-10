@@ -124,10 +124,16 @@ layout: post
     > - Sweep + Farthest Insertion
 
 
-
 ### IA Playing Games:
 
 - [Q-Learning Agents Playing Tic Tac Toe](https://github.com/vcaitite/multiverse_ia/tree/main/projects/TicTacToe_RL): In this project, it was created a tic-tac-toe game with reinforcement learning agents that learn to play the game. The agents are implemented using a Q-learning algorithm.  
+
+### Application and Comparison of Different Classification Methods
+
+- [UFC Winner Classifier](https://github.com/vcaitite/machine-learning-exercises/tree/master/TP3)
+
+- [Exoplanet Classification](https://github.com/vcaitite/machine-learning-exercises/blob/master/TP1/Trabalho%20Pr%C3%A1tico%201%20-%20Classifica%C3%A7%C3%A3o%20de%20Exoplanetas.ipynb)
+
 
 
  
