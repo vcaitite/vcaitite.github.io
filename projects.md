@@ -76,6 +76,8 @@ layout: post
     - [Gabriel Graph + Bayes Classifier](https://github.com/vcaitite/pattern-recognition-exercises/blob/master/list%20-%20extra%203/Gabriel%20Graph%20%2B%20Bayes%20Classifier.ipynb)
     - [Gabriel Graph + 1-NN](https://github.com/vcaitite/pattern-recognition-exercises/blob/master/list%20-%20extra%203/Gabriel%20Graph%20%2B%201NN.ipynb)
 
+- [AdaBoost](https://github.com/vcaitite/machine-learning-exercises/blob/master/TP2/Trabalho%20Pr%C3%A1tico%202%20-%20Implementa%C3%A7%C3%A3o%20do%20Algoritmo%20de%20Boosting.ipynb)
+
 - [kMeans](https://github.com/vcaitite/pattern-recognition-exercises/blob/master/list%20-%20extra%204/kMeans.ipynb)
 
 
